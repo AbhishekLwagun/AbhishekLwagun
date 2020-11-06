@@ -1,6 +1,6 @@
 ### Hi there, I'm Abhishek.👋
 
-## I'm  Student, Devloper, Freelancer, Youtuber and Computer Geek.
+## I'm  Self Learner, Devloper, Freelancer, Youtuber and Computer Geek.
 
 <!--
 **AbhishekLwagun/AbhishekLwagun** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
