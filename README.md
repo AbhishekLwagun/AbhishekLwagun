@@ -17,6 +17,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: I Love JavaScript.
 
+## Languages and Tools:-
+
+```HTML``` ```CSS``` ```JavaScript``` ```PHP``` ```MYSQL```  ```BOOTSRAP``` ```JQUERY``` ```REACT``` ```C Language```
+
 ![Abhishek github stats](https://github-readme-stats.vercel.app/api?username=AbhishekLwagun&show_icons=true&theme=radical)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AbhishekLwagun)](https://github.com/AbhishekLwagun/github-readme-stats)
