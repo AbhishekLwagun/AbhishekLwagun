@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 🤔 I’m looking for help with Projects and OpenSource.
 - 💬 Ask me about Web development.
 - 📫 How to reach me: abhisheklwagun1@gmail.com
-- 😄 Pronouns: he/him/bro
+- 😄 Pronouns: he/him
 - ⚡ Fun fact: I Love JavaScript.
 
 ![Abhishek github stats](https://github-readme-stats.vercel.app/api?username=AbhishekLwagun&show_icons=true&theme=radical)
