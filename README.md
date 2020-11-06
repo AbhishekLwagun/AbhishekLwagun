@@ -10,7 +10,7 @@ Here are some ideas to get you started:
 
 - 🔭 I’m currently working on  My Protofolio Website.
 - 🌱 I’m currently learning React and Node js.
-- 👯 I’m looking to collaborate on Hackathons.
+- 👯 I’m looking to collaborate on OpenSource and Hackathons.
 - 🤔 I’m looking for help with OpenSource.
 - 💬 Ask me about Web development.
 - 📫 How to reach me: abhisheklwagun1@gmail.com
