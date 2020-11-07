@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 
 ## Languages and Tools:-
 
-```HTML``` ```CSS``` ```JavaScript``` ```PHP``` ```MYSQL```  ```BOOTSRAP``` ```JQUERY``` ```SASS``` ```REACT``` ```C Language```
+```HTML``` ```CSS``` ```JavaScript``` ```PHP``` ```MYSQL```  ```BOOTSRAP``` ```JQUERY``` ```SASS``` ```REACT``` ```C Language```  
 
 ![Abhishek github stats](https://github-readme-stats.vercel.app/api?username=AbhishekLwagun&show_icons=true&theme=radical)
 
