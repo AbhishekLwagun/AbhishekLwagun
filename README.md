@@ -9,7 +9,7 @@ Here are some ideas to get you started:
 -->
 
 - 🔭 I’m currently working on  My Protofolio Website.
-- 🌱 I’m currently learning React and Node js.
+- 🌱 I’m currently learning React.
 - 👯 I’m looking to collaborate on OpenSource and Hackathons.
 - 🤔 I’m looking for help with Projects and OpenSource.
 - 💬 Ask me about Web development.
@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 
 ## Languages and Tools:-
 
-```HTML``` ```CSS``` ```JavaScript``` ```PHP``` ```MYSQL```  ```BOOTSRAP``` ```JQUERY``` ```SASS``` ```REACT``` ```Chart.js```   ```C Language```  
+```HTML``` ```CSS``` ```JavaScript``` ```PHP``` ```MYSQL``` ```Node Js``` ```Mongo DB```` ```Electron Js```  ```BOOTSRAP``` ```JQUERY``` ```SASS``` ```REACT``` ```Chart.js```   ```C Language```  
 
 ![Abhishek github stats](https://github-readme-stats.vercel.app/api?username=AbhishekLwagun&show_icons=true&theme=radical)
 
